@@ -8,4 +8,7 @@ public class Persona{
 		nombre = n;
 		apellido = a;
 	}
+	public String getNombre(){
+		return nombre;
+	}
 }
